@@ -1,4 +1,5 @@
 
+[all ugc sites]
 ##Content and Conduct
 
 As a registered user, you may submit content and materials to the Service, including data or media files, and/or comments. You understand that we do not guarantee confidentiality with respect to these content or materials, or that the upload or commenting functions will be uninterrupted or error-free.
