@@ -2,7 +2,7 @@
 ##Copyright Policy
 
 
-Please respect the rights of others, including rights under the U.S. copyright laws. You should only post content and files on the Site for which you have ownership, a license, or a valid argument for fair use.
+Please respect the rights of others, including rights under the U.S. copyright laws. You should only post content and files on the Site for which you have ownership, a license, or if your use constitutes fair use as that is defined under US. law.
 
 Under the Digital Millennium Copyright Act of 1998 (DMCA), we will respond to claims of copyright infringement committed on the Site, if reported to our copyright agent according to these terms.
 
