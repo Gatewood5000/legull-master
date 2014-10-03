@@ -22,4 +22,10 @@ has_SSL: true/false
 has_purchased_data: true/false
 has_data_buyer: true/false
 has_california: true/false
+has_usergenerated: true/false
+has_ecomm_digital: true/false
+has_ecomm_physical: true/false
+has_subscription: true/false
+has_no_scrape: true/false
+has_social: true/false
 
