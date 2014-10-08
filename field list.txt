@@ -33,4 +33,10 @@ has_password: true/false
 privacy_email: contact email for privacy matters
 privacy_address: contact address for privacy matters
 owner_state: site ownership state
+has_returns
+no_returns
+returns_address
+returns_days
+support_email
+support_phone
 
