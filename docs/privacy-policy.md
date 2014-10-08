@@ -43,12 +43,15 @@ This site collects certain user information, such as a username and password, co
 
 ##California Privacy Rights
 
-California Civil Code Section 1798.83 permits Site users who are residents of California to request and receive once a year a list of any third parties to whom we disclosed any of that user's personal information for direct marketing purposes in the preceding calendar year, as well as the categories of personal information disclosed. If you are a California resident and you wish to make such a request or have any questions about the Site's information sharing, you may send an email to <privacy email>, or write to <privacy address fields>.
+California Civil Code Section 1798.83 permits Site users who are residents of California to request and receive once a year a list of any third parties to whom we disclosed any of that user's personal information for direct marketing purposes in the preceding calendar year, as well as the categories of personal information disclosed. If you are a California resident and you wish to make such a request or have any questions about the Site's information sharing, you may send an email to [privacy_email], or write to [privacy_address].
 
-
-##Protection of user information <if Yes to SSL question>
+##Mobile Device Privacy
+The following applies to our mobile apps and sites viewed on your mobile device:
+Our mobile apps collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the applications. The apps also collect information you provide, as well as information about your interaction with the app and its content.
+If location services are activated on your mobile device, our apps will collect precise information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information will not be associated with your user account with us, or with your personally identifiable information.
 
 [legull condition="has_SSL"]
+##Protection of user information
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you share with the site.
 
 [legull condition="has_https_password"]
@@ -72,7 +75,7 @@ You are responsible for protecting your username and password for the Site, and 
 
 Disputes - ALL
 Disputes
-We are based in [legull field="owner_locality"] and you are contracting to use our Site.  This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of <sitestatefield>, without regard to any choice of laws rules of any jurisdiction.  The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in the <siteZIPfield> zip code will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+We are based in [legull field="owner_locality"] and you are contracting to use our Site.  This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of [legull field="owner_state], without regard to any choice of laws rules of any jurisdiction.  The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in the <siteZIPfield> zip code will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
 
 [legull condition="has_arbitration"]
 ARBITRATION
