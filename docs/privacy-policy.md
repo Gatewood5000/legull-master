@@ -48,23 +48,23 @@ California Civil Code Section 1798.83 permits Site users who are residents of Ca
 
 ##Protection of user information <if Yes to SSL question>
 
-Will the site use Secure Socket Layer (SSL) technology whenever sensitive information is sent, received, or retrieved?  <button> 1: Yes; button 2: No</button>
+[legull condition="has_SSL"]
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you share with the site.
 
-Will the site provide a secure (https://) password-protected section whenever personal or credit card information is submitted or retrieved?  <button> 1: Yes; button 2: No</button>
+[legull condition="has_https_password"]
+The Site also protects your account data by using HTTPS transfer protocol.  This is a widely used and more secure communications protocol. 
 
-Advertising services – USER OPTION – from: Will this site use any third party ad services?  <button> 1: Yes; button 2: No</button> -- IF YES, include this:
+[legull condition="has_advertising_network"]
 We use one or more third party vendors to serve ads on the Site. To serve ads and determine how our users use the Site, these services use cookies, or small pieces of code to serve ads to Site users based on users’ visits to the Site and others. Users may adjust their browser settings to disallow the use of cookies.  With cookies turned off, certain features of the Site may work less efficiently or not at all.
 
-Advertising services – USER OPTION – from: If yes, will these services include Google Adsense?  <button> 1: Yes; button 2: No</button> -- IF YES, include this:
+[legull condition="has_adsense"]
 We use Google as an advertising services provider for the Site. Users may opt out of Google’s use of the DART use-tracking cookie by visiting the Google advertising Policies & Principles page.  If you opt out of ad tailoring, you will still see ads, but they will not be based on your browsing history, and they may appear in other languages.
 
-Cookies -- USER OPTION – from: Other than those used by advertising providers, will this site use cookies? <button> 1: Yes; button 2: No</button>
-
-
+[legull condition="has_cookies"]
 This site uses cookies.  Cookies are small pieces of code that the Site or a service provider will put on your computer if your Web browser allows it.  The Site uses cookies to recognize and keep certain information.  On the Site, that information may be used to recognize your computer and browser from current or past visits to the Site or related sites.  We may use this cookie-captured information to improve our service to you, to aggregate information about visitors to the Site and their behavior, to remember and process items in your shopping cart, to understand and save user preferences, or to keep track of advertising.  We may contract with third-party service providers to assist us in better understanding our site visitors.
 In most Internet browsers, you can change your settings so that you will be warned each time a cookie is being sent, or so that cookies will be turned off. With cookies blocked, some fucntions of the Site may not operate properly.
 
-Usernames, Passwords, and Security - ALL
+[legull condition="has_password"]
 Usernames, Passwords, and Profiles
 If prompted, Users must provide a valid email address to the Site, at which the User can receive messages. User must also update the Site if that email address changes. The Site reserves the right to terminate any User account if a valid email is requested but is not provided by the User.
 If the Site prompts or allows a User to create a username or profile, Users agree not to pick a username or provide any profile information that would impersonate someone or that is likely to cause confusion with any other person or entity.  The Site reserves the right to cancel a User account or change a username or profile data at any time.  Similarly, if the Site prompts or allows a User to create an avatar or upload a picture, User agrees not to use any image that impersonates some other person or entity, or that is otherwise likely to cause confusion.
@@ -72,16 +72,13 @@ You are responsible for protecting your username and password for the Site, and 
 
 Disputes - ALL
 Disputes
-We are based in <sitecityfield>, <sitestatefield> and you are contracting to use our Site.  This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of <sitestatefield>, without regard to any choice of laws rules of any jurisdiction.  The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in the <siteZIPfield> zip code will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+We are based in [legull field="owner_locality"] and you are contracting to use our Site.  This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of <sitestatefield>, without regard to any choice of laws rules of any jurisdiction.  The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in the <siteZIPfield> zip code will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
 
-Arbitration – USER OPTION at Arbitration YES/NO
+[legull condition="has_arbitration"]
 ARBITRATION
 Notwithstanding anything that may be contrary within the “Disputes” provisions above, all matters, and all claims within a multi-claim matter, that are arbitrable, including all claims for monetary damages, shall be decided by a single arbitrator to be selected by us, who shall hold hearings in or near <sitecityfield>, <sitestatefield> , under the rules of the American Arbitration Association.
 
-
 If "No" to being intended for and also "No" to collecting personal information from children under the age of 13:
 No Users Under the Age of 13
-
 The Site is not intended for children under the age of 13.  Children under the age of 13 should not use the Site at any time.  We do not knowingly collect personal information from children under the age of 13.  If we obtain actual knowledge that we have collected information from anyone under the age of 13, we will erase that information from our servers. It is a violation of our Terms of Service for children under the age of 13 to use the Site.
-
 
