@@ -28,4 +28,6 @@ has_ecomm_physical: true/false
 has_subscription: true/false
 has_no_scrape: true/false
 has_social: true/false
+has_https: true/false
+has_password: true/false
 
