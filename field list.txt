@@ -30,4 +30,7 @@ has_no_scrape: true/false
 has_social: true/false
 has_https: true/false
 has_password: true/false
+privacy_email: contact email for privacy matters
+privacy_address: contact address for privacy matters
+owner_state: site ownership state
 
