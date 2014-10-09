@@ -39,6 +39,8 @@ returns_address
 returns_days
 support_email
 support_phone
+no_refunds
+has_refund
 sitename
 DMCA_address: DMCA agent's address
 DMCA_telephone: DMCA agent's phone
