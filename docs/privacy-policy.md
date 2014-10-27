@@ -75,7 +75,7 @@ You are responsible for protecting your username and password for the Site, and 
 
 Disputes - ALL
 Disputes
-We are based in [legull field="owner_locality"] and you are contracting to use our Site.  This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of [legull field="owner_state], without regard to any choice of laws rules of any jurisdiction.  The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in the <siteZIPfield> zip code will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+We are based in [legull field="owner_locality"] and you are contracting to use our Site.  This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of [legull field="owner_locality: site ownership state/provence], without regard to any choice of laws rules of any jurisdiction.  The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in the <siteZIPfield> zip code will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
 
 [legull condition="has_arbitration"]
 ARBITRATION
