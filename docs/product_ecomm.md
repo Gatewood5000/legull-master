@@ -3,7 +3,9 @@
 We do not accept product returns.  All sales on our site are final.  If you feel that there has been an error in your order, please contact us at [owner_email]
 
 [legull condition=“has_returns”]
-We will accept product returns if the product is unused and undamaged, and if received by us within [returns_days] days of the date on which we shipped the product to the purchaser.  Please send your unused, undamaged product to us, postage paid, at Returns, [owner_name] [returns_address], together with the reason for your return, and a clear explanation of your choice of either a refund or a specific replacement product.  In order for us to replace the item or credit your account for a refund, please provide your name, address, and a telephone number where you can be reached during working hours.
+We will accept product returns if the product is unused and undamaged, and if received by us within [returns_days] 
+days of the date on which we shipped the product to the purchaser.  Please send your unused, undamaged product to us, postage paid, at Returns, [owner_name] 
+[returns_address], together with the reason for your return, and a clear explanation of your choice of either a refund or a specific replacement product.  In order for us to replace the item or credit your account for a refund, please provide your name, address, and a telephone number where you can be reached during working hours.
 
 ##Order support contact
 For questions about your order, you may contact us at [support_email] [support_phone].
